@@ -7,7 +7,7 @@ in natural language processing (NLP) - Aspect-Based Sentiment Analysis (ABSA).
 - Key Features
 - Getting Started
 - Installation
-- 
+- Usage
 - Examples
 
 
