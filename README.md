@@ -21,25 +21,24 @@ fine-grained insights into what customers like or dislike about their offerings,
 ## 2. Key Features
 In this repository, you will find resources and code that enable you to:
 
--Perform Aspect-Based Sentiment Analysis on text data.
--Extract and classify aspects or entities mentioned in text.
--Determine the sentiment (e.g., positive, negative, neutral) associated with each aspect/entity.
+- Perform Aspect-Based Sentiment Analysis on text data.
+- Extract and classify aspects or entities mentioned in text.
+- Determine the sentiment (e.g., positive, negative, neutral) associated with each aspect/entity.
 
 ## 3. Getting Started
 Before diving into the code, it's essential to understand the components of ABSA:
 
--Aspect Extraction: Identifying and extracting aspects or entities from the text. For instance, in a product review, aspects could be "battery life," "camera quality," and "build quality."
-
--Sentiment Classification: Determining the sentiment polarity (positive, negative, neutral) associated with each extracted aspect or entity.
+- Aspect Extraction: Identifying and extracting aspects or entities from the text. For instance, in a product review, aspects could be "battery life," "camera quality," and "build quality."
+- Sentiment Classification: Determining the sentiment polarity (positive, negative, neutral) associated with each extracted aspect or entity.
 
 ## 4. Installation
-To get started with this project, you'll need to install the necessary libraries and dependencies. Check the requirements file and install the libraries using pip install -r requirements.txt
+To get started with this project, you'll need to install the necessary libraries and dependencies. Check the requirements file and install the libraries using <br /> pip install -r requirements.txt
 
 ## 5. Examples
-- Sentence: For the price you pay, this product is very good. However, battery life is a little lack-luster coming from a MacBook Pro. \n
-Aspects: ['price', 'battery life'] \n
-Term: ['price'] , Class: Positive , Probability: 0.914 \n
-Term: ['battery life'] , Class: Negative , Probability: 0.999 \n
+- Sentence: For the price you pay, this product is very good. However, battery life is a little lack-luster coming from a MacBook Pro. <br />
+Aspects: ['price', 'battery life'] <br />
+Term: ['price'] , Class: Positive , Probability: 0.914 <br />
+Term: ['battery life'] , Class: Negative , Probability: 0.999 <br />
 
 - Sentence: Speakers are great but screen colors are dull. \n
 Aspects: ['speakers', 'screen colors'] \n
