@@ -46,4 +46,4 @@ Term: ['battery life'] , Class: Negative , Probability: 0.999 <br />
 - Sentence: Speakers are great but screen colors are dull. <br />
 Aspects: ['speakers', 'screen colors'] <br />
 Term: ['speakers'] , Class: Positive , Probability: 0.999 <br />
-Term: ['screen colors'] , Class: Negative , Probability: <br />
+Term: ['screen colors'] , Class: Negative , Probability: 1.0 <br />
