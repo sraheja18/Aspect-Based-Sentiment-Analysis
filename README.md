@@ -36,12 +36,12 @@ Before diving into the code, it's essential to understand the components of ABSA
 To get started with this project, you'll need to install the necessary libraries and dependencies. Check the requirements file and install the libraries using pip install -r requirements.txt
 
 ## 5. Examples
-- Sentence: For the price you pay, this product is very good. However, battery life is a little lack-luster coming from a MacBook Pro.
-Aspects: ['price', 'battery life']
-Term: ['price'] , Class: Positive , Probability: 0.914
-Term: ['battery life'] , Class: Negative , Probability: 0.999
+- Sentence: For the price you pay, this product is very good. However, battery life is a little lack-luster coming from a MacBook Pro. \n
+Aspects: ['price', 'battery life'] \n
+Term: ['price'] , Class: Positive , Probability: 0.914 \n
+Term: ['battery life'] , Class: Negative , Probability: 0.999 \n
 
-- Sentence: Speakers are great but screen colors are dull.
-Aspects: ['speakers', 'screen colors']
-Term: ['speakers'] , Class: Positive , Probability: 0.999
-Term: ['screen colors'] , Class: Negative , Probability: 1.0
+- Sentence: Speakers are great but screen colors are dull. \n
+Aspects: ['speakers', 'screen colors'] \n
+Term: ['speakers'] , Class: Positive , Probability: 0.999 \n
+Term: ['screen colors'] , Class: Negative , Probability: 1.0 \n
