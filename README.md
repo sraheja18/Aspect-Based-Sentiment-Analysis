@@ -1,8 +1,7 @@
 # Aspect-Based-Sentiment-Analysis
 
 Welcome to the Aspect-Based Sentiment Analysis project! This repository is your gateway to understanding and implementing one of the most powerful techniques in natural language processing (NLP)
-- Aspect-Based Sentiment Analysis (ABSA). This README will provide you with an overview of ABSA, its importance, and how to use the resources and code provided in this repository.
-
+- Aspect-Based Sentiment Analysis (ABSA).
 ## Table of Contents
 - Introduction to ABSA
 - Key Features
