@@ -40,7 +40,7 @@ Aspects: ['price', 'battery life'] <br />
 Term: ['price'] , Class: Positive , Probability: 0.914 <br />
 Term: ['battery life'] , Class: Negative , Probability: 0.999 <br />
 
-- Sentence: Speakers are great but screen colors are dull. \n
-Aspects: ['speakers', 'screen colors'] \n
-Term: ['speakers'] , Class: Positive , Probability: 0.999 \n
-Term: ['screen colors'] , Class: Negative , Probability: 1.0 \n
+- Sentence: Speakers are great but screen colors are dull. <br />
+Aspects: ['speakers', 'screen colors'] <br />
+Term: ['speakers'] , Class: Positive , Probability: 0.999 <br />
+Term: ['screen colors'] , Class: Negative , Probability: <br />
