@@ -7,6 +7,7 @@ in natural language processing (NLP) - Aspect-Based Sentiment Analysis (ABSA).
 - Key Features
 - Getting Started
 - Installation
+- 
 - Examples
 
 
@@ -33,7 +34,10 @@ Before diving into the code, it's essential to understand the components of ABSA
 ## 4. Installation
 To get started with this project, you'll need to install the necessary libraries and dependencies. Check the requirements file and install the libraries using pip install -r requirements.txt
 
-## 5. Examples
+## 5. Usage
+Two models need to be trained. One for aspect term extraction and the other for aspect based sentiment analysis. They can be trained by running the files train_ATE.py and train_ABSA.py. For inference, refer to the notebook inference_combined.ipynb.
+
+## 6. Examples
 - Sentence: For the price you pay, this product is very good. However, battery life is a little lack-luster coming from a MacBook Pro. <br />
 Aspects: ['price', 'battery life'] <br />
 Term: ['price'] , Class: Positive , Probability: 0.914 <br />
