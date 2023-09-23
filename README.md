@@ -4,11 +4,11 @@ Welcome to the Aspect-Based Sentiment Analysis project! This repository is your 
 - Aspect-Based Sentiment Analysis (ABSA). This README will provide you with an overview of ABSA, its importance, and how to use the resources and code provided in this repository.
 
 ## Table of Contents
--Introduction to ABSA
--Key Features
--Getting Started
--Installation
--Examples
+- Introduction to ABSA
+- Key Features
+- Getting Started
+- Installation
+- Examples
 
 
 ## 1. Introduction to ABSA
