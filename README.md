@@ -31,7 +31,7 @@ Before diving into the code, it's essential to understand the components of ABSA
 - Sentiment Classification: Determining the sentiment polarity (positive, negative, neutral) associated with each extracted aspect or entity.
 
 ## 4. Installation
-To get started with this project, you'll need to install the necessary libraries and dependencies. Check the requirements file and install the libraries using <br /> pip install -r requirements.txt
+To get started with this project, you'll need to install the necessary libraries and dependencies. Check the requirements file and install the libraries using pip install -r requirements.txt
 
 ## 5. Examples
 - Sentence: For the price you pay, this product is very good. However, battery life is a little lack-luster coming from a MacBook Pro. <br />
