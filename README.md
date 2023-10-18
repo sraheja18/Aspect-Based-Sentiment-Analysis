@@ -2,6 +2,7 @@
 
 Welcome to the Aspect-Based Sentiment Analysis project! This repository is your gateway to understanding and implementing one of the most powerful techniques
 in natural language processing (NLP) - Aspect-Based Sentiment Analysis (ABSA).
+
 ## Table of Contents
 - Introduction to ABSA
 - Key Features
@@ -49,3 +50,5 @@ Term: ['speakers'] , Class: Positive , Probability: 0.999 <br />
 Term: ['screen colors'] , Class: Negative , Probability: 1.0 <br />
 ## 7.  Here's the final webpage
 ![Screenshot](ABSA_webpage.png)
+
+## 6. Credits - https://github.com/1tangerine1day/Aspect-Term-Extraction-and-Analysis
