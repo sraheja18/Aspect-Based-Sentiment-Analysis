@@ -47,3 +47,5 @@ Term: ['battery life'] , Class: Negative , Probability: 0.999 <br />
 Aspects: ['speakers', 'screen colors'] <br />
 Term: ['speakers'] , Class: Positive , Probability: 0.999 <br />
 Term: ['screen colors'] , Class: Negative , Probability: 1.0 <br />
+## 7.  Here's the final webpage
+![Screenshot](ABSA_webpage.png)
