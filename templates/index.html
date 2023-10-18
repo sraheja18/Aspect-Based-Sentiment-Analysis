@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Review Analysis</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Aspect Based Sentiment Analysis</h1>
+    <form method="post" action="/analyze">
+        <textarea name="text" rows="4" cols="50" placeholder="Enter user review"></textarea>
+        <br>
+        <input type="submit" value="Analyze">
+    </form>
+    {% if text %}
+    <div class="result">
+        <h2>Input Text:</h2>
+        <p>{{ text }}</p>
+        {% for aspect in analyzed_text %}
+        <h3>Aspect: {{aspect.term}}</h3>
+        <p>Sentiment: {{aspect.class}}</p>
+        <p>Probability: {{aspect.probability}}</p>
+        {% endfor %}
+    </div>
+    {% endif %}
+</body>
+</html>

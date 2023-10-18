@@ -1,0 +1,57 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #1500ff;
+    font-size: 36px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+textarea {
+    width: 80%;
+    max-width: 600px;
+    padding: 20px;
+    margin: 20px auto;
+    border: 2px solid #007BFF;
+    border-radius: 10px;
+    font-size: 16px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+input[type="submit"] {
+    background-color: #007BFF;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.result {
+    margin-top: 20px;
+    text-align: left;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.result h2 {
+    font-size: 24px;
+    color: #007BFF;
+    margin-top: 0;
+}
+
+.result p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+}
